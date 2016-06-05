@@ -1,1 +1,2 @@
-![image](https://github.com/WheelMenuDemo/testdemo.gif)
+
+![](https://github.com/songkai320/WheelMenu/raw/master/testdemo.gif)  
